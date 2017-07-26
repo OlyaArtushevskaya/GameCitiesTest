@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="Suite">
+  <test name="exampleGameCitiesConnectionTest">
+    <classes>
+       <class name="GameCitiesConnectionTest" />
+    </classes>
+  </test>
+  <test name="exampleGameCitiesGetLastCharTest">
+    <classes>
+       <class name="GameCitiesGetLastCharTest" />
+    </classes>
+  </test>
+  <test name="exampleGameCitiesGetCityTest">
+    <classes>
+       <class name="GameCitiesGetCityTest" />
+    </classes>
+  </test>
+</suite>  	
